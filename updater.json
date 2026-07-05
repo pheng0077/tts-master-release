@@ -4,7 +4,7 @@
   "pub_date": "2026-07-05T14:38:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmsrVHI1VHpCazBoaktMVUxCc0hrNTRSOFFuMmp3bDMzOWl4S2Fza2V0SHhiM1hpWmUwWUhERGhxMktzbUQyMHdGSXVYdVFBeEtiUTc3d00rZG9sS3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjYyMTc5CWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6CnBkOWVFeDc5VEtVV090aDJCSVd3WXgraWhYZVBqdFQ5UE9KNkVmTzBvMDFKdVVxRUl6emRDczVXZDAreDRMSVN6UTUrcnFjd1BabGRnbno0SDNwUERnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnBtdG95aDE0ZFlGbWx1OHNtcUYwWUMzRkpmZGJnVzFSN3k4SHJ6cW9lOW1FejIxZHRqTThyQks2Q3duVFhKbWFuRjRyQ1luVE5tdDh0YWZzMld1TndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjYyNjY1CWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6Ck9nVEJXL3QwZ1ZGMXQ1Q2lkbWxCVmVML2hYc2tpdExieDZzT2hYSnlpZGZqa01CbGc5dkZPeC90ZUg0Nm9oaHRMR1lPdFJXeFhCOEtoWmZaRVVpVUF3PT0K",
       "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.5/TTS-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
