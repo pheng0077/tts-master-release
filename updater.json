@@ -1,0 +1,19 @@
+{
+  "version": "2.1.2",
+  "notes": "TTS Studio version 2.1.2 standalone packaging release with local SQLite storage, Vertex AI direct routing, and premium UI update managers.",
+  "pub_date": "2026-07-05T13:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmlsY2tnN09UYXlSN0xSMG9PR1h3cmFESlBEUWlGZ0NNckp4QVNnUkZ5Q3NrYmpMc0tNNlh6NXhZZWR1aWZnVFNJK3dlTVpVVDZDajNKeVZkNDg1YkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjU4MDExCWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6CnpTVlBBVVZLNndYdExDTlJCZVVTc0s4YUYrUk9OR1lMTTFXclVERnI0eTZvWVozam9vcUxnbW5BZzJDTDdqK0xGRzVnS1p4cFJZR3RVQUNVSXIzZERBPT0K",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.2/TTS-Studio.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.2/TTS-Studio-x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "PASTE_THE_CONTENT_OF_YOUR_MSI_ZIP_SIG_FILE_HERE_ONCE_BUILT_ON_WINDOWS",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.2/TTS-Studio_2.1.2_x64_en-US.msi.zip"
+    }
+  }
+}
