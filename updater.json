@@ -1,19 +1,19 @@
 {
-  "version": "2.1.4",
-  "notes": "TTS Studio version 2.1.4 standalone packaging release with local SQLite storage, Vertex AI direct routing, and premium UI update managers.",
-  "pub_date": "2026-07-05T13:51:00Z",
+  "version": "2.1.5",
+  "notes": "TTS Studio version 2.1.5: Offline persistence, flat brand primary color #B331F1, native file saving integrations, and queue cleanup optimizations.",
+  "pub_date": "2026-07-05T14:38:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnJMVVhzcXdrdGZXVHlqbHozNG0yOWJpdmdnSndKM0wvSDFDZkhNZCs3YlVLeW9JSDQ2VXQzVlM1WWtqbTNaVzNHeXBQbDE2V2NSbzhXTDZsS3ROZEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjU5NTAyCWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6CmoxTWUvTzhqa216NHMvenA4QXh5cExPUW84TU9Jck9KUDFNZnNXV2VLaFdiU1dud0NKYjd4ZzhzNGEybjNLMUNjRjRCbzZ2Q0d2Sjd5S01yQmM5U0NRPT0K",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.4/TTS-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmsrVHI1VHpCazBoaktMVUxCc0hrNTRSOFFuMmp3bDMzOWl4S2Fza2V0SHhiM1hpWmUwWUhERGhxMktzbUQyMHdGSXVYdVFBeEtiUTc3d00rZG9sS3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjYyMTc5CWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6CnBkOWVFeDc5VEtVV090aDJCSVd3WXgraWhYZVBqdFQ5UE9KNkVmTzBvMDFKdVVxRUl6emRDczVXZDAreDRMSVN6UTUrcnFjd1BabGRnbno0SDNwUERnPT0K",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.5/TTS-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.4/TTS-Studio-x64.app.tar.gz"
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.5/TTS-Studio-x64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_MSI_ZIP_SIG_FILE_HERE_ONCE_BUILT_ON_WINDOWS",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.4/TTS-Studio_2.1.4_x64_en-US.msi.zip"
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.5/TTS-Studio_2.1.5_x64_en-US.msi.zip"
     }
   }
 }
