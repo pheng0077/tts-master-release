@@ -1,11 +1,11 @@
 {
-  "version": "2.1.12",
-  "notes": "TTS Studio version 2.1.12: Fixed transcript ZIP exporting in Scriber by routing file saving through Tauri's native Save Dialog and base64 write backend commands instead of standard browser anchor downloads, preventing silent webview download blocking.",
-  "pub_date": "2026-07-06T10:28:44.381Z",
+  "version": "2.1.14",
+  "notes": "TTS Studio version 2.1.14: Fixed unreleased changelog versions showing up with a leading hyphen on some devices by optimizing the date string sanitizer regex and utilizing a substring matcher on the UI parser.",
+  "pub_date": "2026-07-06T10:34:00.353Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmlFVWNiR1FKc3VQMmhkY0NPMTMvd3ViVHBEZlVLWWlFdFhvNy9YMVl4TUtBMnV6U1VtdUNZc21sazUwam81ZFYzanNNQlRnbVFHOXZ0ajR6K0t0QndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzMzNzE5CWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6CnZGVk1ZSEV3RDRLZmhRWWtoVTQrcXpEVStWVDdIVUlEcW9pOGs2dWxheENPUndtQ3hzUHQ1eWlMNnNsQWZIQ2MvMUg1VUIzSk1PVWpCQzduMWc1SURRPT0K",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.12/TTS-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmpCVjg2ZFpRUnMvMnlleHBmbGViS240UldrR0hzY3lRV0tIL1doN0RlZ1gvYWdJeDhZaHBKdTYrbHBMVS9zNHpQTTZHNU1RaXExeWJ6VzZWelpEb2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzM0MDM0CWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6CmxXcExtS2I2VFgreloxQit6aWUzMWdyRDhpWE41bnB1d1g5REVlOSt3a3EwQTNrQjhiUzVRN0FqZkJwMUZhd1k0cHd0dnhpQkprOFlqUTc1ZFJVWENnPT0K",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.14/TTS-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
