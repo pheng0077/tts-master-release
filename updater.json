@@ -1,11 +1,11 @@
 {
-  "version": "2.1.6",
-  "notes": "TTS Studio version 2.1.6: Added Scriber workspace persistence, local audio folder backup storage, clean cache settings, \"Re-Transcribe All\" queue controller, custom window size memory, Khmer/Thai word spacing corrections, and dynamic queue workers.",
-  "pub_date": "2026-07-06T05:16:00Z",
+  "version": "2.1.7",
+  "notes": "TTS Studio version 2.1.7: Added inline transcript segment editing in Scriber preview, enabled auto-saving and persistence for manual segment corrections, and resolved audio playback glitches caused by background queue updates.",
+  "pub_date": "2026-07-06T06:30:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm9TcnBmZ3FnTE5HWTBVcnJINDVmNjdKS3dCZ0xuMU1WU0JPcVRVcnZwSk43RURMVnR5TXVGTUt2V1hlSFlnU0lFUDc5d0t0UkthZFBQb0EyaFNBQXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzE0OTUzCWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6CkZMbFhYQzJQd2Q4S2ZoNkVxQUkxVWtqTXhJUHV4ZWNCemtaODVza3JtbmphNXhIdDU3Um81N0JpUGlhZjN1YzNwNFNIUmIwa0dONC95Z3dhZ1J2RkJnPT0K",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.6/TTS-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmpWS09FQkxaVEQyaHRoRGNFODRpdFZ2bDR0c3lCdURkM05DS3V5MmFsbnZJWno4eWRCZ1hoVE1aeEIxNkM4aE1CUGdONUI2ZE5mbzR4Ny9QMUcyTFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzE5Mzc0CWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6CnYxb1ZVcVdyRHFsTmM5UjBlRHF1K2U5T0VwS0xlaWZzWHZpajk4cHkrTUx1Y2M2cFpBejFiNVl5bEdoRnRQS0JKbUlRcHhTYVFpL3hOZTJuSDhGK0F3PT0K",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.7/TTS-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
