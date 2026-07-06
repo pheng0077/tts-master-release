@@ -1,11 +1,11 @@
 {
-  "version": "2.1.11",
-  "notes": "TTS Studio version 2.1.11: Fixed raw GitHub CDN cache latency by switching the auto-updater to request updater files directly from the latest GitHub Release downloads, ensuring instant update notifications.",
-  "pub_date": "2026-07-06T09:51:30.337Z",
+  "version": "2.1.12",
+  "notes": "TTS Studio version 2.1.12: Fixed transcript ZIP exporting in Scriber by routing file saving through Tauri's native Save Dialog and base64 write backend commands instead of standard browser anchor downloads, preventing silent webview download blocking.",
+  "pub_date": "2026-07-06T10:28:44.381Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnJVTmJkeTFNbUlUZnlIZml5c0hOUndTNlZZeHhYVXhJdHl1dUNKQS9kZWo3dFF4ZE9tZE0rOFllb1ladFlxV2VUOTRXZE1zQ3ZWajg5cHpicFZ1enc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzMxNDg2CWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6CklJQnZlUE5adXVHOWwxSTNLSXNGL2lCd000WTVwQ2psaWNRbUZQOEV0Q3gwdWc0YmFIcmd2anhXU01NSlB6czUrd3crUG5TVTBGcmh2N01Uc05HVEJBPT0K",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.11/TTS-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmlFVWNiR1FKc3VQMmhkY0NPMTMvd3ViVHBEZlVLWWlFdFhvNy9YMVl4TUtBMnV6U1VtdUNZc21sazUwam81ZFYzanNNQlRnbVFHOXZ0ajR6K0t0QndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzMzNzE5CWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6CnZGVk1ZSEV3RDRLZmhRWWtoVTQrcXpEVStWVDdIVUlEcW9pOGs2dWxheENPUndtQ3hzUHQ1eWlMNnNsQWZIQ2MvMUg1VUIzSk1PVWpCQzduMWc1SURRPT0K",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.12/TTS-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
