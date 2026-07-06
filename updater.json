@@ -1,11 +1,11 @@
 {
-  "version": "2.1.5",
-  "notes": "TTS Studio version 2.1.5: Offline persistence, flat brand primary color #B331F1, native file saving integrations, and queue cleanup optimizations.",
-  "pub_date": "2026-07-05T14:38:00Z",
+  "version": "2.1.6",
+  "notes": "TTS Studio version 2.1.6: Added Scriber workspace persistence, local audio folder backup storage, clean cache settings, \"Re-Transcribe All\" queue controller, custom window size memory, Khmer/Thai word spacing corrections, and dynamic queue workers.",
+  "pub_date": "2026-07-06T05:16:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnBtdG95aDE0ZFlGbWx1OHNtcUYwWUMzRkpmZGJnVzFSN3k4SHJ6cW9lOW1FejIxZHRqTThyQks2Q3duVFhKbWFuRjRyQ1luVE5tdDh0YWZzMld1TndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjYyNjY1CWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6Ck9nVEJXL3QwZ1ZGMXQ1Q2lkbWxCVmVML2hYc2tpdExieDZzT2hYSnlpZGZqa01CbGc5dkZPeC90ZUg0Nm9oaHRMR1lPdFJXeFhCOEtoWmZaRVVpVUF3PT0K",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.5/TTS-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm9TcnBmZ3FnTE5HWTBVcnJINDVmNjdKS3dCZ0xuMU1WU0JPcVRVcnZwSk43RURMVnR5TXVGTUt2V1hlSFlnU0lFUDc5d0t0UkthZFBQb0EyaFNBQXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzE0OTUzCWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6CkZMbFhYQzJQd2Q4S2ZoNkVxQUkxVWtqTXhJUHV4ZWNCemtaODVza3JtbmphNXhIdDU3Um81N0JpUGlhZjN1YzNwNFNIUmIwa0dONC95Z3dhZ1J2RkJnPT0K",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.6/TTS-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
