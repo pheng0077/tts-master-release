@@ -1,11 +1,11 @@
 {
-  "version": "2.1.14",
-  "notes": "TTS Studio version 2.1.14: Fixed unreleased changelog versions showing up with a leading hyphen on some devices by optimizing the date string sanitizer regex and utilizing a substring matcher on the UI parser.",
-  "pub_date": "2026-07-06T10:34:00.353Z",
+  "version": "2.1.16",
+  "notes": "Multi Studio version 2.1.16: Implemented the Batch File Renamer feature:, Registered the File Renamer card on the homepage catalog view., Created a reusable `<Dropzone>` component to handle native drag-and-drop overlays consistently across Multi Studio., Added interactive column sorting to the File Renamer queue (by Original Name, Preview Name, or Size) to let users order files alphabetically before applying incrementing number sequences., Created a premium 3D glassmorphic boxes application logo for Multi Studio, replacing all desktop launcher icons and loader elements., Kept the Batch File Renamer page persistently mounted in the DOM to preserve queue lists and settings when navigating., Decoupled renamer state and operations from UI layouts into a dedicated custom React hook (`useRenamer`)., Extracted renamer Tauri Rust bridge commands out of `lib.rs` into a separate modular file `renamer.rs` to maintain backend quality., Removed resource-heavy infinite pulse animations to conserve device battery and CPU/GPU resources., Fixed folder and file drops loading duplicate items or causing queue collisions., Fixed a bug where missing playlist files in Scriber triggered continuous Tauri asset protocol load errors in the console.",
+  "pub_date": "2026-07-07T12:03:20.634Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmpCVjg2ZFpRUnMvMnlleHBmbGViS240UldrR0hzY3lRV0tIL1doN0RlZ1gvYWdJeDhZaHBKdTYrbHBMVS9zNHpQTTZHNU1RaXExeWJ6VzZWelpEb2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzM0MDM0CWZpbGU6VFRTLVN0dWRpby5hcHAudGFyLmd6CmxXcExtS2I2VFgreloxQit6aWUzMWdyRDhpWE41bnB1d1g5REVlOSt3a3EwQTNrQjhiUzVRN0FqZkJwMUZhd1k0cHd0dnhpQkprOFlqUTc1ZFJVWENnPT0K",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.14/TTS-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmxFbFVEeXpXbXI1L2x1aUNnR3UrRmtNbE5yR2FZVHJLZzRVdTZRbmtCMWlJY3dqZmJaTmdUcWNVNDVLTjBvSW1jcGJ2OHdDZjAwUG5WUkxwZE9pZmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDI1NzUzCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKZFEyNFgvMGNqa3RpU0xoZS9TdGxGdW5lOEhpNzdYWGNMdEppdFZnNCtSdDN3eGFSSkF3VHgwcmE2SG5lNGNRcjBZWTB5aFk0VVhFTDVxYk51U2EwQ1E9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.16/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
