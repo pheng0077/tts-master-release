@@ -1,11 +1,11 @@
 {
-  "version": "2.1.19",
-  "notes": "Multi Studio version 2.1.19: Fixed high CPU usage and rapid battery drain during audio playback in the Scriber by throttling parent page render updates from the main audio player to 250ms, and updating the active segment seeker bar and timer directly in the DOM at 60Hz/120Hz while throttling React state writes.",
-  "pub_date": "2026-07-09T17:14:25.013Z",
+  "version": "2.1.20",
+  "notes": "Multi Studio version 2.1.20: Added original audio filename badges onto each transcript segment card for cleaner reference., Fixed backend network request timeout limits to 10 minutes to successfully accommodate long audio transcriptions., Fixed UI freezes and loading lag when a file fails or length mismatch returns, resolving stagger timers and disabling obsolete queue triggers immediately.",
+  "pub_date": "2026-07-11T09:19:56.326Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnJySmdPMTlQRWpROWlGTThjeGlzZkJoM1dMTzNuaVZ6VEh6b0UwSFNuYmEzM2kvbXUrdXRVZEkyTXFYU0Jvc1NlZ1RBeXRaWFZuZHBwNmxKSElWNlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjE3MjU5CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKQkd6Z3NqQ0w2RkVJTUNId2VSU3NGcmQzcHpWT0tONW43eURxVmtFRmtMaVJ1dGRlTHNqUjNDTTB2dHRhY1NMNVMyVjRJZ0dlblZRYjdITjQzNFNZQlE9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.19/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmx2Zm9jMUcwKzRtS3ZscU9nWS91RzFRakJFeHNFb29rYys0eTBGOGRHM2pQNGU1cnpDNVRBTUFPcGhrZk95dGFyRE9WaGZlQzdSbVM0K1F2VTN4N0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzYxNTkyCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKbjJ6cXZJQUdaM2JJYWwzaHVnYVFwSTBZSGpXVmwyaEdjY0tiYWJkSHNlc04wTVFIN3JNQVA0WkNzYksrVDcvWXFDRUM5VVJsOVAvY3BUS01ueFRRQkE9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.20/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
