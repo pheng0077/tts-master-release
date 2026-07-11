@@ -1,11 +1,11 @@
 {
-  "version": "2.1.20",
-  "notes": "Multi Studio version 2.1.20: Added original audio filename badges onto each transcript segment card for cleaner reference., Fixed backend network request timeout limits to 10 minutes to successfully accommodate long audio transcriptions., Fixed UI freezes and loading lag when a file fails or length mismatch returns, resolving stagger timers and disabling obsolete queue triggers immediately.",
-  "pub_date": "2026-07-11T09:19:56.326Z",
+  "version": "2.1.21",
+  "notes": "Multi Studio version 2.1.21: Added network status event monitoring in the Scriber queue. If your network connection drops during transcription, the queue is automatically paused to prevent remaining files from failing, and transcription startup is blocked while offline.",
+  "pub_date": "2026-07-11T09:22:47.515Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmx2Zm9jMUcwKzRtS3ZscU9nWS91RzFRakJFeHNFb29rYys0eTBGOGRHM2pQNGU1cnpDNVRBTUFPcGhrZk95dGFyRE9WaGZlQzdSbVM0K1F2VTN4N0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzYxNTkyCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKbjJ6cXZJQUdaM2JJYWwzaHVnYVFwSTBZSGpXVmwyaEdjY0tiYWJkSHNlc04wTVFIN3JNQVA0WkNzYksrVDcvWXFDRUM5VVJsOVAvY3BUS01ueFRRQkE9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.20/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmk1S1AvK2hJR3h3YU5PTmNDa2JnV1MzNndlS0RRVnYyTlVxR3RPUmE3VnBIQnkrSFAxTVJ2NzFJTnc0V2ZhL0taRGdrb1V0eE51OHhUTmE0R1ZNbHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzYxNzYyCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKc2VoWDg0bFkyZ0NkeHdrWTNEUGpjUkNFc0h0Y1JrSVk1TGxPM1lHMjZDUnBKOTI5Mmw4S1BZV3FZaWo3d0FDcllKazhVRE8wWUlVWExITDVSRGo3Q2c9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.21/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
