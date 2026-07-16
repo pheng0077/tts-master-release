@@ -1,11 +1,11 @@
 {
-  "version": "2.1.23",
-  "notes": "Multi Studio version 2.1.23: Added a single-block audio download button, a toggle to split imported text by blank lines, drag-and-drop cancellation using Escape, and a finished notification chime. Optimized the Render All queue to dynamically generate draft blocks inside a sliding window of max 4 active blocks, keeping subsequent draft blocks editable. Terminated background audio playback on clear or render actions, and made the active instruction preset visually distinct.",
-  "pub_date": "2026-07-16T04:22:47.000Z",
+  "version": "2.1.24",
+  "notes": "Multi Studio version 2.1.24: Removed the legacy Audio Studio workspace and simplified the layout. The voice generation suite is now standardized around the multi-block Script Studio page using the standard layout header title.",
+  "pub_date": "2026-07-16T04:33:45.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmtQWXp4bzJ4SjdSTXJ1V3lrTHpKaVRJVkhnSytXbStidlJQYVBTb3RmK0IrZ2gydFlVMkZFYnlpa2l2enlaL0xGN0huOEY3ZFcxWnZMMUhNWFhObEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTc1NzQ1CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKU3BwU0tnZGVsTzY5MWZJUHVJa3ljSVBzWjEyN0g4NllzQSszNTBxU2dON1pla1hZWk85SWg5bGtkcTNhNU1tYkordHRFWkpxYWxaTVgyTjBDQnQ2RHc9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.23/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnVHa084MmF6MWNwVVRiZGxqNmE1YkNVZVJvYlpyc3U5bUpOdWhkbXZCc3hVMDkrT1BWeGxCcjEyazRZcDFhbGE0L3Q5cEtnTW1jTTRBcS9RdDk0b0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTc2NDE1CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKekdTWEVBL0FlZlcrVDR0bklBQU9UL1hNelFobVpGbEowMG5jamdNWGRtZDhTTEdwSHVLRGllaHZKeTF1WC9JekhEdGhFMUVTYXNsUGl5S0ZyQm1FQWc9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.24/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
