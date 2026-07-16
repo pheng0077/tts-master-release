@@ -1,10 +1,10 @@
 {
   "version": "2.1.25",
   "notes": "Multi Studio version 2.1.25: Fixed player seekbar overflow and improved segment regeneration queueing so it queues without canceling other active voice rendering. Optimized disk space by automatically deleting old voice files when editing segments or starting the app. Disabled Render all button when complete, and polished player buttons.",
-  "pub_date": "2026-07-16T09:16:40.000Z",
+  "pub_date": "2026-07-16T09:22:00.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm4wcTBoODQ3U3ZwbTd2YVlBdXA1TnhnTi8xQkdFN0UxK1pic25GM0FlWGRGYnZtZGhhTUdTK0N4bS80S3A0bXdnWEU3a2pZN3JSc09hWW5LS3EwT0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTkzMzkzCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKSmlrc0dybUExd0F2bkhmTE1FTGRtMzlHVDZnUE1HZlFuaHpNcEtFZlR2MW9xSTBETEgybDA3dUtGdHFtMVM1U0p5RS9pOU05NlViWDJzSGEzci9ZRFE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmxUQzUxUUh2Z2h4TTRFNFVlYjZiemZaWXFyMDRQUVFqRnlkSVdVN3pnR1BmK1AzYmxqRXR2SmQxRTVWTWluV3pWTVliMUVOYXJpaG1EZTRXSXErK0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTkzNzI3CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKdC9jQkc0L243Smc3R1Q1TS9aS0FkQ1dWNm1mRXFlSThMRmEzOHpsMGc5V0YyS0VEZ1ZTWTg4eTZKMUNId0xlbW94NURVMEwwM2tKSzRlSkFsS2gvQmc9PQo=",
       "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.25/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
