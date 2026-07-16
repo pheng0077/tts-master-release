@@ -1,11 +1,11 @@
 {
-  "version": "2.1.30",
-  "notes": "Multi Studio version 2.1.30: Added a percentage progress exporting overlay modal that displays real-time task status messages (fetching files, compiling archives, saving to disk) and exact percentage indicators during project exports.",
-  "pub_date": "2026-07-16T11:24:02.027Z",
+  "version": "2.1.31",
+  "notes": "Multi Studio version 2.1.31: Added separate SRT subtitles export and WAV/MP3 toggle in Script Studio. Implemented automatic MP3 audio compilation and a unified export dropdown in AI Transcriber. Added a 'Retry Failed Files' button to re-run only failed transcriptions.",
+  "pub_date": "2026-07-16T12:51:00.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnFkai9EcWJrUTRxNzZXaWRvMU5iUS9FN1p2MmprRTg2d2lsUDhUMFpJWWlKVnhsbWdKdWd6TC94ZTdMditqSzl6allqdm1JZ2FMMGZmREpZcWZiN2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjAxMDM3CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKV0xUNS9PV0ZBb0NEaU9PeENHVm85MUZNN3pUWnE1TkZmZTBqWGdSK0hvOXIzaEdXTWlNYlRhQnlqZ3Y5bGRxTnNrbnVXRUpqdHp6YUpIS2plL2hVQlE9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.30/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm5UVHNLcGpBVUVRaWFFbG5vUUpWTVpITEJvdHhxOHBIelM1MTNJWnlpNEROUWFDc3Joa2RwdWdlUjlyZEpxUjFhSTBNUCt0KzJlNS9yT3dCd3IyRHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjA2MjAxCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKbDFmeE9KUUtvKzN1N3dxcVloTUNkQUY1bndTS0paeVowV1NkVUJhSnlUSDJ6aW12SVppVk1Zczk4QXc2WXgrM1paUGxZSWdzUzNtMnNHbmRKTEdZQVE9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.31/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
