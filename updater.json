@@ -1,10 +1,10 @@
 {
   "version": "2.1.26",
-  "notes": "Multi Studio version 2.1.26: Added segment naming and auto-increment naming logic, protected ZIP exports against name collisions, persisted Director's Note style/pace/accent settings, automatically resolved developer port conflicts/lingering Next.js lock states, and improved presets to save and restore Model/Voice selections.",
-  "pub_date": "2026-07-16T10:05:00.000Z",
+  "notes": "Multi Studio version 2.1.26: Added segment naming, auto-increment naming logic, priority queue prepending for regenerated blocks, protected ZIP exports against name collisions, persisted Director's Note style/pace/accent settings, automatically resolved developer port conflicts/lingering Next.js lock states, and improved presets to save and restore Model/Voice selections.",
+  "pub_date": "2026-07-16T10:13:00.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm51emVid3YrcWRvbFJjNERWY05uTDhTd3lDNU5ZNFRleW9mTmhTUTBnR1hnVzcxZFZ6bXNTaFNNVWt2OHd4N1M2emtDT2NrcWltU09UWmx2OFZaa3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTk2MTUyCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKY1IvT2h6Z0dLM3RUNnNLU1RtM1ZXZk9DSHNPWUphSmo5ZTBqb3E2enBsRDFzb0JLeWJEeGUvUytlYnd3UFRFS1RtM1FaUmpjMVRmYkV5STh5WW1vRFE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm9PdU5pSGlrWDUwSm80OVgybkVOSS9vV1c1VDA1OUhXYTRRUjhlUmpOdzl3NWU5c2ViVFZWNm1tRTJOWUtDNlpXUGdNck9mTHNlZnF6V2E3Y3ZmMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTk2NzU1CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKdW0vWDdSMjFKYVA4VHFCQWY3ZTNETmpXTmpEaC9HWTYrTVM0MzdJZFA4UlliUjYrVUxadFpJeVZkcjlWT3ZteTVtR3FUQUNUK2RpNVIxR3U0cHlrRHc9PQo=",
       "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.26/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
