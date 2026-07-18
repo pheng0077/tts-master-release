@@ -1,11 +1,11 @@
 {
-  "version": "2.1.31",
-  "notes": "Multi Studio version 2.1.31: Added separate SRT subtitles export and WAV/MP3 toggle in Script Studio. Implemented automatic MP3 audio compilation and a unified export dropdown in AI Transcriber. Added a 'Retry Failed Files' button to re-run only failed transcriptions.",
-  "pub_date": "2026-07-16T12:51:00.000Z",
+  "version": "2.1.32",
+  "notes": "Multi Studio version 2.1.32: Added the AI Watermark Remover tool to remove logos/watermarks from videos, integrated local template-guided auto-alignment, added Reference Logos Library settings, enabled smooth 60fps playhead seekbar, added drag-and-drop video imports onto player, fixed cross-page hotkey conflicts and double-trigger Spacebar events, and optimized hardware resource/media memory pausing.",
+  "pub_date": "2026-07-18T04:04:00.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm5UVHNLcGpBVUVRaWFFbG5vUUpWTVpITEJvdHhxOHBIelM1MTNJWnlpNEROUWFDc3Joa2RwdWdlUjlyZEpxUjFhSTBNUCt0KzJlNS9yT3dCd3IyRHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjA2MjAxCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKbDFmeE9KUUtvKzN1N3dxcVloTUNkQUY1bndTS0paeVowV1NkVUJhSnlUSDJ6aW12SVppVk1Zczk4QXc2WXgrM1paUGxZSWdzUzNtMnNHbmRKTEdZQVE9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.31/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm0zRmtrL1h3TU9QVlVvU1Q1clNpSjR5eWFVZ3NkOTJBcCtsbGxqd0RVcStIa3E5VFl5TEM5VCtFZWJndklqUlR3MFhPbldZVnhySThYZENnODFhVXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzQ3NDMyCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKSlB0TFJhNFBxaVJGbHdrSHJuN0VncmYvd2s1L1A2MjBtVUNTZExYK3h0eGxJd3F5ZUVtMlNnMG0zb2RoNVlITjZXN3AzMmwzUk1MazNrSTdoMUhOQWc9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.32/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
