@@ -1,11 +1,11 @@
 {
-  "version": "2.1.34",
-  "notes": "Multi Studio version 2.1.34: Completion Safeguards (script blocks can only be marked as completed once their audio segment is fully rendered), Auto-Reset on Editing (editing block text or regenerating audio automatically unchecks completed status for re-review), Block Splitting Shortcut (press Cmd+Enter, Alt+Enter, or Ctrl+Enter inside any text area to split a block into two separate blocks at cursor position), Mark All Completed toolbar button to review and check off all rendered audio blocks at once, Per-Block SRT Subtitle Export inside project ZIP archives, Smooth Block Expand & Collapse transitions with unified typography, Fluid Drag-and-Drop Reordering with capped edge auto-scrolling speed, Memory-Free Audio Export delegating MP3 assembly directly to native desktop backend, Preserved Custom Block Names during drag reordering, Silent Flow without intrusive toast popups when toggling block completion.",
-  "pub_date": "2026-07-20T05:58:24.000Z",
+  "version": "2.1.35",
+  "notes": "Multi Studio version 2.1.35: **Per-Block Cancel Controls**: Easily cancel rendering or queuing directly on any individual script block card using the new cancel button next to the rendering status badge or on the block action toolbar., **Expanded Render Queue Capacity**: Increased the Script Studio block processing queue capacity from 5 to 10 active blocks, allowing larger projects to render faster with higher throughput.",
+  "pub_date": "2026-07-30T04:40:01.574Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm83cXlmM0J2ZTRTLzNNdjNQOGowK1d4dExJOXNWY1BaWlVITmZPc01GT1FBWVdwZFRlUytwRTRONG9XVE8yWE15NGxqblZ4KzJCTzRFNjBtNVpiL3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTI3MTAyCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKUUFFcHU4OFZXMEIvR0w0TkVLUnVhYjdXYjdkbStSUE1NTzN3UFozZkdjL0owTkRQL05vV25odTlFclNTZHl1WVhWcy9WVysvYk1ZM3ZDZ3VYN3dzQXc9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.34/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnJCWVMydFpyQnFTQXpyTHNRWExvNVprRkpOWTZUdDgzN3pwY2J6dlFBRGJxdDBJMUpVVDR2dnBuc2doQVdCLzR4dDRadnNBR2pGVktqQUdvRWNvSWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mzg2MzkwCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKRURnNVRra1JPSzdpNTYxUlg0ZVd2b1ZnZnZaMGdmbjhFL1E5elp4TkRaVHdNSEhjdWM3YWlkdGhOSDBQR1B1TjJzWEVEUE96OTV0ZWw2UXcxS3l5QlE9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.35/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
