@@ -1,11 +1,11 @@
 {
-  "version": "2.1.35",
-  "notes": "Multi Studio version 2.1.35: **Per-Block Cancel Controls**: Easily cancel rendering or queuing directly on any individual script block card using the new cancel button next to the rendering status badge or on the block action toolbar., **Expanded Render Queue Capacity**: Increased the Script Studio block processing queue capacity from 5 to 10 active blocks, allowing larger projects to render faster with higher throughput.",
-  "pub_date": "2026-07-30T04:40:01.574Z",
+  "version": "2.1.37",
+  "notes": "Multi Studio version 2.1.37: **Gemini 3.5 Flash Lite Model**: Added Gemini 3.5 Flash Lite to AI Scriber for fast and cost-effective audio transcription., **Strict Per-File Segment Boundaries**: Enforced per-file segment boundaries to prevent transcript segments from merging across different audio files., **Sub-Second Subtitle Timestamp Precision**: Fixed timestamp calculations for exact seconds and sub-second subtitle preview accuracy., **Strict SRT Subtitle Format**: Updated exported .srt subtitle files to enforce standard zero-padded timecodes compatible with all major video editors., **Long Audio Transcription Token Budget**: Increased generation token limits and added auto-repair for truncated output on long audio clips.",
+  "pub_date": "2026-07-30T09:27:49.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnJCWVMydFpyQnFTQXpyTHNRWExvNVprRkpOWTZUdDgzN3pwY2J6dlFBRGJxdDBJMUpVVDR2dnBuc2doQVdCLzR4dDRadnNBR2pGVktqQUdvRWNvSWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mzg2MzkwCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKRURnNVRra1JPSzdpNTYxUlg0ZVd2b1ZnZnZaMGdmbjhFL1E5elp4TkRaVHdNSEhjdWM3YWlkdGhOSDBQR1B1TjJzWEVEUE96OTV0ZWw2UXcxS3l5QlE9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.35/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm9JWlppdlhsdjNaRHFrR0VOOUtYUGNFcndkL2p0Sm1zRWkwYnFwMmxHT1ZuOXQ0QlNHNWcwbS9Ia0UrdVRWV3RWTVkvL3FrNGpzSGg1M2dYczVJY2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDAzNjY0CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKYmJMRGFIaGFQN3dqOWlJMW9Vc0dnRHdRSXRYN0ZmZkVXQlF2OVdvMndZRFR2dEhtME5kUjVJc2lkN05jd25KVG82TTR0SHNFY295WnRZdXlFUHBGQVE9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.37/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
