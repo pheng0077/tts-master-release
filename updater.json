@@ -1,11 +1,11 @@
 {
-  "version": "2.1.40",
-  "notes": "Multi Studio version 2.1.40: **Gemini 3.1 Pro Preview Model**: Added `Gemini 3.1 Pro Preview` to the AI Scriber model selector, enabling advanced multimodal reasoning, verbatim speech transcription, and long audio clip processing., **Native Script Punctuation Preservation**: Enforced native script punctuation guidelines (including Khmer Khan `។`, Cam-noke-tho `៖`, and Thai clause/punctuation marks) in the AI Scriber system prompt to prevent LLMs from omitting local language punctuation marks., **Phonetic Verbatim Accuracy for Short Clips**: Hardened transcription instructions and enabled greedy decoding (`topP: 0.1`) to prevent LLMs from substituting, paraphrasing, or auto-correcting spoken colloquial Khmer and Thai words on short audio clips.",
-  "pub_date": "2026-08-03T07:16:36.298Z",
+  "version": "2.1.41",
+  "notes": "Multi Studio version 2.1.41: **Instant Transcription Cancellation**: Fixed the Cancel button in AI Scriber so clicking Stop/Cancel immediately stops the active spinner, clears progress messages, and resets processing clips back to pending without hanging or freezing., **3-Minute Safety Timeout**: Added a 3-minute request timeout guard on AI transcription calls to prevent network drops or API hangs from leaving files stuck in processing., **Seamless Segment Playback Boundaries**: Fixed segment audio playback alignment to stop cleanly at the exact segment end timestamp, eliminating the ~0.5s audio cutoff at the start and preventing audio from bleeding into adjacent segments.",
+  "pub_date": "2026-08-03T07:53:07.575Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm9odDk5OXNCVFdIaU91VnNWT3cybTZVYVp0elU3clVhTkt3S0xOMXdrZEtqejBieDRtOWRXeWttTUxkL294OXBmOEFWSmpEQStIYjMremFLVkI0RUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzQxMzgwCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKSFlYUzBaK1NnamtWbWx6WmpXaHN6RmI1QVNxR2FCbDIrc0o2NDJmSlJlb0lndlk1VHFNUGZBbVYzNzRGL0JvbzJkamFQWUNJQzVhN0d5c3MvMlk4REE9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.40/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm9FMjdLd0xPZnZRT2htN0tBZ3BSaHJiNGhpUGJHVEtMOC9RYk10Q1FtSmk4cVhPK01QSndVbjV2N3BTNGsxazdXa1ovUUpDOTNpL1lDL1BJaVFubHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzQzNTgxCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKblczQk56bFVRUlVSOElHeERyMzd4NGlnUGdrSjh6ODBEZlQwcHBTeGsvVC9VcHhmZ1A2dDdPYVgwUXUzVjJFd0hLZjVFOTdZQTdGdEo2dW1kSmRRQVE9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.41/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
