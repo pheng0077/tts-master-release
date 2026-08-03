@@ -1,11 +1,11 @@
 {
-  "version": "2.1.39",
-  "notes": "Multi Studio version 2.1.39: **Unified Selector System**: Upgraded Model Version, Instruction Preset, and Director's Note dropdown selectors to a cohesive UI design featuring radio circle indicators, active selection borders, and dark mode popovers., **Smart Preset Lifecycle**: Instruction Preset selectors automatically resolve active project preset names, dynamically update when saving or editing presets, and safely handle deleted presets without errors., **Contained Sidebar Dropdowns**: Rebuilt Director's Note dropdowns using Radix UI Portals with smart alignment (start, center, end) to prevent dropdown popups from overflowing past sidebar boundaries., **Readable Option Descriptions**: Replaced single-line text truncation with natural multi-line text wrapping on Director's Note style and pace descriptions., **Fixed Option Scrolling**: Eliminated scroll jitter and stutter inside option lists by streamlining Radix Viewport scroll engines and optimizing repaint performance., **Unblocked Block Deletion**: Fixed script block deletion event bubbling so you can delete any block anytime when it is not actively rendering.",
-  "pub_date": "2026-07-31T04:52:00.000Z",
+  "version": "2.1.40",
+  "notes": "Multi Studio version 2.1.40: **Gemini 3.1 Pro Preview Model**: Added `Gemini 3.1 Pro Preview` to the AI Scriber model selector, enabling advanced multimodal reasoning, verbatim speech transcription, and long audio clip processing., **Native Script Punctuation Preservation**: Enforced native script punctuation guidelines (including Khmer Khan `។`, Cam-noke-tho `៖`, and Thai clause/punctuation marks) in the AI Scriber system prompt to prevent LLMs from omitting local language punctuation marks., **Phonetic Verbatim Accuracy for Short Clips**: Hardened transcription instructions and enabled greedy decoding (`topP: 0.1`) to prevent LLMs from substituting, paraphrasing, or auto-correcting spoken colloquial Khmer and Thai words on short audio clips.",
+  "pub_date": "2026-08-03T07:16:36.298Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnQwTVBUUllKUU1FNmpWZG1aN0o4Q0twV1g1cGs3K2hVTHhNeHA4TWhLRzVvbzFUaHhXVjN5UVFabnEvYkRsSmlrNVVJQ2E0dmJJSU50azdzSGY2dndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDczNTI5CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKeC9aWGJ4MHloeEREVWZXdExScVZQS1YvSHV2ZzhVUkZRemRGUnZzdWRBMFY4VmRVQS81NFo3dDdBSVg4UzJ4anBGZENaUUkvUzdlRTF3dmd3UzhCQ3c9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.39/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm9odDk5OXNCVFdIaU91VnNWT3cybTZVYVp0elU3clVhTkt3S0xOMXdrZEtqejBieDRtOWRXeWttTUxkL294OXBmOEFWSmpEQStIYjMremFLVkI0RUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzQxMzgwCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKSFlYUzBaK1NnamtWbWx6WmpXaHN6RmI1QVNxR2FCbDIrc0o2NDJmSlJlb0lndlk1VHFNUGZBbVYzNzRGL0JvbzJkamFQWUNJQzVhN0d5c3MvMlk4REE9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.1.40/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
