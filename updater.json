@@ -1,11 +1,11 @@
 {
-  "version": "2.2.2",
-  "notes": "Multi Studio version 2.2.2: **Chirp Models & Hardcoded Language Rules**: Removed Chirp models (`chirp_3`, `chirp_2`, `chirp`) and eliminated all hardcoded language word lists and artificial splitting/joining rules. AI Scriber now uses pure, native Gemini multimodal transcription without post-processing distortion.",
-  "pub_date": "2026-08-12T05:44:10.085Z",
+  "version": "2.2.4",
+  "notes": "Multi Studio version 2.2.4: **Persistent Export Settings in Script Studio**: Your export preferences (such as ZIP packaging, individual audio clips, combined track, and subtitle format) are now automatically saved and remembered when you close and reopen the app., **Smooth Audio Seeking & Scrubbing**: Fixed an issue where dragging or clicking the seek bar on individual audio cards would unexpectedly pause playback. You can now scrub smoothly through audio segments without interruptions., **Audio Playback & Pause Button Synchronization**: Resolved an issue where audio could occasionally continue playing in the background even after clicking the pause button. Pausing now immediately and reliably silences all playback.",
+  "pub_date": "2026-08-19T09:31:09.330Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmdKZTNzVEhhNjlRb0IwRVhIV1RicUFKMEZIaDVKeUNqMEhTQVNHS0owNVlLaFdNWE1iK3paaSszUnl0SE42Qy9kN0ZmdnVrejNIZU4rMDVxRUU5aEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTEzNDI0CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKYk5acWhxUndWOW42dDBQTXVKZmtJSFVaQmZHYzhmcTZhc3NVdk5CWFNUa3RrRlVwZkgwOHpuaVQwcHo3WHkvUExOYXJhL2hMdnVWN2JmVzV4Kzh0Q1E9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.2.2/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnVocTJVZCtkU2dBQ3QxaGs2ZDFWUWpkeDJWeFZ1RjBraDF3MUJaNnlrZU01elJYbzJoL1ZENCtORVFiTDhpQTdTNkV6d2tBd3J2N0I2K3RLUk9NRWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTMxODYyCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKTFN4TmhUc3MrYUQyR2tFYkN6SXJQMXNiTnc4QTd1anRkRnNvc2taKzdMTitQdEQybG01dEUvaFhxTFZhcGx0MWV6T3R1UWgvTXNxemlHS3BmRnBWQUE9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.2.4/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
