@@ -1,11 +1,11 @@
 {
-  "version": "2.3.0",
-  "notes": "Multi Studio version 2.3.0: **Seamless Script Studio Audio Seeking**: Fixed an issue where clicking or dragging the seekbar on an audio block could cause the playhead to get stuck or snap back when switching between segments. Seeking now transitions smoothly and accurately to the exact chosen position., **Uninterrupted Playback During Single-Block Regeneration**: Regenerating another audio block while a segment is currently playing no longer stops or pauses your playback., **Clean Playhead Reset on Active Block Regeneration**: Fixed an issue where regenerating the currently playing audio segment could cause the next block's playhead to jump to the end. The active timeline now resets cleanly to the beginning of the block., **Cross-Platform Desktop Build Compatibility**: Scoped Windows-specific build variables strictly to Windows targets in Cargo configuration and enabled automated Clang discovery on macOS, ensuring native offline Whisper compilation works seamlessly across both Mac and Windows.",
-  "pub_date": "2026-08-26T09:05:48.114Z",
+  "version": "2.3.1",
+  "notes": "Multi Studio version 2.3.1: **Resilient Playhead Progress Tracking**: Fixed an issue where seeking or clicking on the seekbar while audio was playing would cause the playhead animation loop to freeze in place even as audio continued to play.",
+  "pub_date": "2026-08-26T10:59:24.233Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm1BbjhUeEJFd1VqR0d2eE9XTjJHcnlRTTBzb2pZaFp5MDVPelYzNjAvYk1iWllvWmh1ekhYampCYmQwdDhnSjlmN0tXNzVFUEY3Zk5hWDFpS05sb1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzM1MTQyCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKa2NMZUhZS1h0cWI0KzEvTTlOV0xMdW56UEhjL28vcFRWdlpSRW4zbUEzSWx2NWNhT3U3Vi9jL0xCdzBuTnVFSWxiSk5lVEhzM0xXK0hub3RpditCQVE9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.3.0/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnM3M2dWVWIyengwQ1QrU21jR0Yzb2R5d1VWQ0pSRDlsK0NPc2FjVzR6NVpVS3pkR0JrWHZTUHhhRWk4clhFWmxVYm9sanRMZVczd3dibWg3KzhYQmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzQxOTU5CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKYkJKZklyeStBQlFtM3liUTZtT2s2TkNTZXVTQ2kxUHlSb3lQcVUyR3MzRnZoZmhSVUZEYmFaYWh2cmwveURmK1p5OWJya01NdTFEdlc5MW9IaFYvQUE9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.3.1/Multi-Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENT_OF_YOUR_DARWIN_X64_TAR_GZ_SIG_FILE_HERE_IF_COMPILED",
