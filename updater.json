@@ -1,11 +1,11 @@
 {
-  "version": "2.3.7",
-  "notes": "Multi Studio version 2.3.7: **Stable Voice Generation & Direct Prompt Delivery**: Restored dependable text-to-speech rendering across all Gemini voice models (`Gemini 2.5 Flash TTS`, `Gemini 3.1 Flash TTS`, and `Gemini 2.5 Pro TTS`), ensuring robust audio generation, natural tone styling, and reliable multi-region fallback protection., **Clean Model Selection Menus**: Polished model selection dropdowns and block override popovers with clean single-line labels, precise spacing, and full model detail visibility.",
-  "pub_date": "2026-10-14T06:23:01.730Z",
+  "version": "2.3.8",
+  "notes": "Multi Studio version 2.3.8: **Stable Voice Generation Engine Baseline**: Restored and standardized dependable text-to-speech audio rendering across all Gemini voice models (`Gemini 2.5 Flash TTS`, `Gemini 3.1 Flash TTS`, and `Gemini 2.5 Pro TTS`), ensuring consistent voice quality, natural pacing, and stable multi-region connection fallback., **Clean Voice Selection Menus**: Streamlined the voice model selection dropdowns in Script Studio and Speech Generator with clean, readable titles, clear model descriptions, and responsive popup layouts., **Optimized Application Stability**: Streamlined underlying studio configuration and update manifests to guarantee smooth, reliable auto-updates and error-free operation.",
+  "pub_date": "2026-10-14T06:48:36.117Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnErWkIyUHdtQmVVZUpPaW9uMnp3ODZuMjZZVlk1QW9IcWNaZFJDRURTY2YyRklVNmZ4Z1hud0lRR3I1WHhWWGNVRVdidzNTWG1Ub3JtcjRNMWdzeFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTU4OTc1CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKRzBXRUc2di92T2VBbHplamNrNlM5U0JVTndoUFU5QzlnbG8zcFJIQ1RyQW9LOGhCeWU4LytxUHFlbmtxZmdVLzJZS2VHUlFnc0oyWThSekZRWEJSQVE9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.3.7/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmw2ZWtEQWh2UUdaZ3FiZHJDbDRvYU1OSXpFVkpoTmtvb3l4ZEZkY1kzUWlIZXdWa3BxTWNFY2xvSzc0dlBDelZEdndvSnZObkRBR24yeDlFY1BSRVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTYwNDcyCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKYlg3Nk4yVnZqcHY2dFBRRTZaNlN5eE9ySjNHT1laN0VlejFRRTE5V1FaWk1URkllVWcyZ2Q2aTYydzV5UlRiK1B0YWVXUjE1aUVOZ2RwYm5IdFlVRFE9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.3.8/Multi-Studio.app.tar.gz"
     }
   }
 }
