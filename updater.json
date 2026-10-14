@@ -1,11 +1,11 @@
 {
-  "version": "2.3.6",
-  "notes": "Multi Studio version 2.3.6: **Gemini 3.8 Flash-Lite TTS Model**: Added Google's new Gemini 3.8 Flash-Lite TTS (`gemini-3.8-flash-lite-tts`) model across Script Studio, Audio Queue, and Settings. Designed for high-volume, rapid audio generation with low latency and cost efficiency, complete with automatic fallback protection., **Spoken Instruction Safeguard in Gemini TTS**: Fixed an issue where Gemini 3.8 Flash-Lite TTS occasionally read out your prompts or director's instructions (such as tone, pace, or accent guidelines) as part of the spoken speech. Instructions are now passed cleanly through Google's dedicated voice style metadata layer, guaranteeing the model only speaks your actual script text., **Clean Single-Line Model Selector Labels**: Prevented model names (such as \"Gemini 3.8 Flash Lite TTS\") from wrapping onto multiple lines in narrow popovers and panels by enforcing single-line formatting with clean ellipsis truncation and expanding block override popovers to comfortably fit model details and badges.",
-  "pub_date": "2026-10-14T05:25:49.449Z",
+  "version": "2.3.7",
+  "notes": "Multi Studio version 2.3.7: **Stable Voice Generation & Direct Prompt Delivery**: Restored dependable text-to-speech rendering across all Gemini voice models (`Gemini 2.5 Flash TTS`, `Gemini 3.1 Flash TTS`, and `Gemini 2.5 Pro TTS`), ensuring robust audio generation, natural tone styling, and reliable multi-region fallback protection., **Clean Model Selection Menus**: Polished model selection dropdowns and block override popovers with clean single-line labels, precise spacing, and full model detail visibility.",
+  "pub_date": "2026-10-14T06:23:01.730Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnF4T044WFgzTTdqaWE4VTB6Vlk5QXFJS29Rbmw5TU1YUTA0Y1R3MFFOOTRGMng4LzI3OVB4MlJ5K1ZwbGNDQkV4c0dlUmRRcTRyTkpXVEw5SWlPL0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTU1NTI0CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKUWVGQ0xoT1JSUXhyaFBSVi9GcUVBYU83eWtqWFJBdWJKbzI4L1hNb2N4ZndibkI3MW5td2VqRDdpUmNqNWlOUnVnNnNEOVd2VThBdXBPdWQxdm94QUE9PQo=",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.3.6/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnErWkIyUHdtQmVVZUpPaW9uMnp3ODZuMjZZVlk1QW9IcWNaZFJDRURTY2YyRklVNmZ4Z1hud0lRR3I1WHhWWGNVRVdidzNTWG1Ub3JtcjRNMWdzeFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTU4OTc1CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oKRzBXRUc2di92T2VBbHplamNrNlM5U0JVTndoUFU5QzlnbG8zcFJIQ1RyQW9LOGhCeWU4LytxUHFlbmtxZmdVLzJZS2VHUlFnc0oyWThSekZRWEJSQVE9PQo=",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v2.3.7/Multi-Studio.app.tar.gz"
     }
   }
 }
