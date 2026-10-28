@@ -1,0 +1,11 @@
+{
+  "version": "3.0.2",
+  "notes": "Multi Studio version 3.0.2: **Uninterrupted Find & Replace Search Box Typing**: Resolved an issue where typing into the in-manuscript search input immediately lost focus after a single keystroke, preventing users from typing their search query. Removed automatic manuscript focus hijacking during search updates, keeping keyboard focus smoothly inside the search and replace input fields while active matches center and highlight in the manuscript., **Silent In-Manuscript Replace**: Streamlined the Find & Replace experience by removing pop-up toast notifications when replacing text matches, allowing you to quickly replace individual words or perform bulk replacements without distracting alerts., **Script Patch Detection in Doc Text Replacer**: Resolved an issue where pasting revision notes or clicking \"Load Example\" in the Import Script Patches dialog always showed \"0 Rules\" and failed to detect patch instructions. Enhanced the parser to reliably recognize \"Original Line\" and \"Patched Line\" pairs across plain text, markdown bolding (`**Original Line:**`), numbered lists (`1. Original Line:`), bulleted notes (`- Original Line:`), arrows (`old -> new`), and markdown tables.",
+  "pub_date": "2026-10-28T05:10:51.764Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmtZZHEweEZ1M05ybGpmT1lKZmJ6cXVZSGJUY3p2Sk12RWZMbEh5cWZkeGY4bUlGV2VhUXFva3JKc0IwcGZKeXRBS0dUNmZWd0Nhc1lDVjN0cTB4OUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTY0MTcyCWZpbGU6TXVsdGktU3R1ZGlvXzMuMC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjozLjAuMgpTYWxZSS90dW0rdEsrdnVYNVJCTTVuRTlGMjFvZjE0TzlvVDdOeXU1MGQ2emVOQTFYMkFVSDc3T0xuZ2hsSzlvQmpSUmFGVHVuWjBvK21XQ2ZPZmhEUT09Cg==",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v3.0.2/Multi-Studio_3.0.2_x64-setup.exe"
+    }
+  }
+}
