@@ -1,15 +1,15 @@
 {
-  "version": "3.0.2",
-  "notes": "Multi Studio version 3.0.2: **Uninterrupted Find & Replace Search Box Typing**: Resolved an issue where typing into the in-manuscript search input immediately lost focus after a single keystroke, preventing users from typing their search query. Removed automatic manuscript focus hijacking during search updates, keeping keyboard focus smoothly inside the search and replace input fields while active matches center and highlight in the manuscript., **Silent In-Manuscript Replace**: Streamlined the Find & Replace experience by removing pop-up toast notifications when replacing text matches, allowing you to quickly replace individual words or perform bulk replacements without distracting alerts., **Script Patch Detection in Doc Text Replacer**: Resolved an issue where pasting revision notes or clicking \"Load Example\" in the Import Script Patches dialog always showed \"0 Rules\" and failed to detect patch instructions. Enhanced the parser to reliably recognize \"Original Line\" and \"Patched Line\" pairs across plain text, markdown bolding (`**Original Line:**`), numbered lists (`1. Original Line:`), bulleted notes (`- Original Line:`), arrows (`old -> new`), and markdown tables.",
-  "pub_date": "2026-10-28T05:10:51.768Z",
+  "version": "3.0.3",
+  "notes": "Multi Studio version 3.0.3: **Seamless Windows In-Place Updates & Data Protection**: Resolved an issue on Windows where installing an update or restarting after a download prompted users to uninstall the previous version and wiped local databases and settings. Configured a non-destructive installer flow that smoothly upgrades application files in-place without uninstallation prompts, permanently protecting your manuscripts, audio projects, and settings., **Reliable Windows In-App Update Notifications**: Resolved an issue where update dialogs failed to appear on Windows due to platform matching mismatches. Added native browser link handling so download buttons and release links open smoothly in your default web browser.",
+  "pub_date": "2026-10-28T05:47:50.963Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNm8xMlBFenR5cWZCY291QUg3TzBPaER3TWtVeFVnTWFBb0NlWnBNVVFGSjROcEhjMWhNVXB6bktUVS9BNW1ROElUZ0N1eEZnZHNhWmRqL2dwSTZuU3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDg3MzY1CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oJdmVyc2lvbjozLjAuMgpKQ1FvYTR1R1BYOER4UnRsUGlYekJWckNqU3E4akl3RWp2Zi94emFiY0g3VnZMdWN5bFROK09RdTdSSkJQTHJZT0t1ME1GazdjSTVLbndoUzY4ZVFDQT09Cg==",
       "url": "https://github.com/pheng0077/tts-master-release/releases/download/v3.0.2/Multi-Studio.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmtZZHEweEZ1M05ybGpmT1lKZmJ6cXVZSGJUY3p2Sk12RWZMbEh5cWZkeGY4bUlGV2VhUXFva3JKc0IwcGZKeXRBS0dUNmZWd0Nhc1lDVjN0cTB4OUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTY0MTcyCWZpbGU6TXVsdGktU3R1ZGlvXzMuMC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjozLjAuMgpTYWxZSS90dW0rdEsrdnVYNVJCTTVuRTlGMjFvZjE0TzlvVDdOeXU1MGQ2emVOQTFYMkFVSDc3T0xuZ2hsSzlvQmpSUmFGVHVuWjBvK21XQ2ZPZmhEUT09Cg==",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v3.0.2/Multi-Studio_3.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNmgwMG44M3ZKemxwVnJjMTFBR2xCalFTbzFRZlhXMXJHa3hWU2dTN2VFS1QxZ0VoOUdYRE8vaTJiaHc1azNBWW42ZlRHYjdFd2tGSCtORHpoNnJmU2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTY2NDQ4CWZpbGU6TXVsdGktU3R1ZGlvXzMuMC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjozLjAuMwoyeStQNUZhR1p0R3BROS9UdG1aUzJNbDEveWFWNThTNWorbXAwNnBQSkhDZytISzJZY0YxWnFvbzZ0WmliQ1k5Y2dqTmlEbkxkQ2cxZkE1Mkx0bHZCZz09Cg==",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v3.0.3/Multi-Studio_3.0.3_x64-setup.exe"
     }
   }
 }
