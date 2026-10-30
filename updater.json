@@ -1,11 +1,11 @@
 {
   "version": "3.2.1",
   "notes": "Multi Studio version 3.2.1: **Universal Window & Small Screen Scrolling**: Resolved an issue where viewing the application on laptops, smaller displays, or resized desktop windows locked scrolling. The Catalog Home page, Settings panel, File Renamer, and Watermark Remover now scroll smoothly from top to bottom without cutting off cards or action buttons., **Responsive Workspace Layouts**: When resizing the desktop window to compact widths or heights, the File Renamer and Watermark Remover gracefully adapt their side-by-side columns into a clean stacked layout that can be scrolled through freely., **Compact Screen Toolbar Adaptation**: Streamlined top control toolbars across Script Studio and audio tools to wrap and adapt naturally on narrower window widths, ensuring buttons and counters are always visible and accessible., **Smooth Custom Scrollbars**: Added slim, modern scrollbars designed specifically for the dark studio theme that keep workspaces clean without crowding narrow panels.",
-  "pub_date": "2026-10-30T03:14:19.026Z",
+  "pub_date": "2026-10-30T04:53:11.248Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnBNcWFjb1BxSVdPRFg5dlRFSHlwWCsva245bHZoUkFYYUJOT3ZZY0xNWDNIdlZ3cCtPSlExaHlYMFVxZDRPOHpyS3YxajQ5c2tKcStubXZEVTZJY2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYyMTQzCWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oJdmVyc2lvbjozLjIuMApjYi82V0F6blV0Y1FXM3djQTNBdkhnMmVGNlVON25iSytoVVhLV0hsK2FBd1RrblFBdkNWSlZKUEtNVzd5NnFIWHpxZHh6cUlDZXphNlBKOHdZM0FBUT09Cg==",
-      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v3.2.0/Multi-Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnRBTGMvK0ZLaGViMVVYUGJ1MkFVMkRFUmI5alBPbmpwUW1menlFY0NrSkZvYTdFTE9wQ2J3RzNwczdLQTU4a2F6QXUwL2VoOW5DUGVPTFNPRUl2cXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzM1OTc4CWZpbGU6TXVsdGktU3R1ZGlvLmFwcC50YXIuZ3oJdmVyc2lvbjozLjIuMQpic3RHNFB1alhORGNjTWMxdkxYNGprSUtwRGZZT3ozWUtyN0N0SmRyeXc0bEpaakc2dS9hTm04dzlBYXhNZ0pBR1JBY0pQSHpaVW91ZXRKTDlrdzdCQT09Cg==",
+      "url": "https://github.com/pheng0077/tts-master-release/releases/download/v3.2.1/Multi-Studio.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkhVMHFCUkRqNnF0WlNEeVBkYnlmZjNkNlVHbGpmcW5Ia1N5bG0zWU84RDVndUNFNzBrZ09lVysrejJhNEhpb3l5cVpKVEh2K0U4MmJzWVB3aWlQN2lXVDJLSkM2N2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzMwMDQ3CWZpbGU6TXVsdGktU3R1ZGlvXzMuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjozLjIuMQo2d3lVZ1JZQTJCKzAwZm41SDZ1T1NzSlVqL1JhQXR1WDZvaDRqcmlmbEVLOVNGc1d6TzV5SG9odk9lZDg2SSt4MUNGeHdMclQxakNjNGlna29OZDZEQT09Cg==",
